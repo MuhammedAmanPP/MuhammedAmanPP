@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Aman P P</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 - 🌱 I’m currently learning **Backend Node.JS**
 
