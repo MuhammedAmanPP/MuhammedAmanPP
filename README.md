@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Aman P P</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Backend Node.JS**
+- 🌱 **I’m currently Searching jobs**
 
 - 📫 How to reach me **aman7909199024@gmail.com**
 
